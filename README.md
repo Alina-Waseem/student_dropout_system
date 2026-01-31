@@ -47,3 +47,6 @@ Key reasons for dropout:
 - Academic support
 - Attendance monitoring
 - Parent meetings
+
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/518122d4-1d72-4356-b0ff-e47294494a66" />
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/0681de85-519e-4d6c-aa2a-b9cb13ea9f05" />
